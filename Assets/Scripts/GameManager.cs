@@ -15,6 +15,9 @@ public class GameManager : MonoBehaviour
     [Header("Scoreboard")]
     public Sprite[] image;
 
+    [Header("TeamProperties")]
+    [SerializeField] public int numberOfTeams;
+
     void Start()
     {
     }
