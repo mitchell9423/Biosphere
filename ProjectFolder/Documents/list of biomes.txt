@@ -1,0 +1,12 @@
+
+
+tropical rain forest
+savanna
+temperate forest
+desert
+grassland
+taiga
+tundra
+
+Card Size
+657x475
