@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddc7470cd03ef141b2ed3c11fe1c9d2, type: 3}
+  m_Name: Card1
+  m_EditorClassIdentifier: 
+  eBiomeType: 2
+  eBiomeSuit: 0
+  eQuestionDifficulty: 0
+  Question: 'Karl describes an ecosystem he visits frequently.  The plant life is
+    mostly grass, about 3 feet tall.  This ecosystem is located in a muddy area that
+    floods each afternoon with a mix of freshwater and saltwater.  There is a small
+    river present. He sees crabs and small fish.
+
+
+    Which major terrestrial biome best matches Karl''s description?'
+  color: {r: 0, g: 1, b: 0, a: 1}
+  pointValue: 10
+  biome: 0
+  texture: {fileID: 2800000, guid: 6581d37f0d1178f4589f7f4719f2f4f2, type: 3}
+  gamedata: {fileID: 11400000, guid: d4a225dac4eecfb47bc05d059aa9fd5e, type: 2}

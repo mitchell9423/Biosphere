@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0823702802f1433439a9905d7b234a16, type: 3}
+  m_Name: CardBox
+  m_EditorClassIdentifier: 
+  questionBackground:
+  - {fileID: 21300000, guid: 812872a67d953754ca402960d4f541a1, type: 3}
+  - {fileID: 21300000, guid: 6ec4b1de17e84ff4abe9a92583ce0d47, type: 3}
+  - {fileID: 21300000, guid: e88dfe405bbfada4fbe44ee4155a3fa8, type: 3}
+  - {fileID: 21300000, guid: 5a669d55c0752164e9ec425128c81970, type: 3}
+  questionOverlay:
+  - {fileID: 21300000, guid: bf5859adc8daac44a99000be67ad4e92, type: 3}
+  - {fileID: 21300000, guid: 9b277fdabaa31fc4c8aed2dbc3a4161c, type: 3}
+  - {fileID: 21300000, guid: eba1a7b3015256c4eacb7678f4288a39, type: 3}
+  - {fileID: 21300000, guid: 46dd1901e65b03f4198222c058bc5acf, type: 3}
+  - {fileID: 21300000, guid: c465484db058629409171e162f58b3b3, type: 3}
+  - {fileID: 21300000, guid: 4d1b0ef1acabc8d4ab26671344270b8d, type: 3}
+  textures:
+  - {fileID: 2800000, guid: c953cbd0b4cf1cc47b4f2bf82dc60a8e, type: 3}
+  - {fileID: 2800000, guid: 6581d37f0d1178f4589f7f4719f2f4f2, type: 3}
+  - {fileID: 2800000, guid: 014eda95a70576347aeb84844722c7e2, type: 3}
+  - {fileID: 2800000, guid: f823274095ba82443ac567afc5907807, type: 3}
+  questionBiome: 3
+  questionPointValue: 20
+  colors:
+  - {r: 0, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  arrayTeams: []
+  defaultNumberOfTeams: 2
+  maxNumberOfTeams: 4
+  minNumberOfTeams: 2
+  selectedNumberOfTeams: 2
+  currentTurnTeam: 0
+  currentAnsweringTeam: 0
+  correctAnsweringTeam: -1
+  bSelectedCardBiomeExistsInTeamBiosphere: 0
+  bSelectedCardBiomeExistsInTeamSuit: 0
+  maxNumberCardsOnTable: 3
+  listCardDeck: []
+  listCardsOnTable: []
+  listCardsRemovedFromGame: []
+  selectedQuestionCard: {fileID: 0}
+  selectedQuestionEBiomeType: 0
+  selectedQuestionCardQuestion: 
+  selectedQuestionEQuestionDifficulty: 0
+  selectedQuestionEBiomeSuit: 0
+  selectedQuestionPointValue: 0
